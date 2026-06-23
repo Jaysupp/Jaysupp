@@ -2,22 +2,29 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:58a6ff&height=220&section=header&text=AYUSH%20JC&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20|%20Game%20Developer%20|%20Problem%20Solver&descAlignY=60&descSize=18&descColor=dbeafe&animation=fadeIn"/>
 
-<br/>
+<br>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer+💻;Game+Developer+🎮;Building+with+Unity+and+C%23;Exploring+AI+and+Modern+Technologies;Build.+Learn.+Improve.+Repeat." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Game+Developer;Building+with+Unity+and+C%23;Exploring+AI+and+Modern+Technologies;Build.+Learn.+Improve.+Repeat."/>
 
-<br/><br/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=9DB4FF&center=true&vCenter=true&width=900&lines=I+build+digital+products+that+refuse+to+be+boring."/>
+
+<br><br>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaysupp&style=for-the-badge&color=58a6ff)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushjc125@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayushj.c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushjc)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushJC)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushjc125@gmail.com)
 
 </div>
+
+</div>
+
+<br>
 
 ---
 
