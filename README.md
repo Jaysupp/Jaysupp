@@ -175,16 +175,6 @@ Personal portfolio showcasing projects, skills, and certifications.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jaysupp&theme=algolia&no-frame=true&no-bg=true&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
