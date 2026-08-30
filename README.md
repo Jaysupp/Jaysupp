@@ -175,16 +175,6 @@ Personal portfolio showcasing projects, skills, and certifications.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaysupp&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Jaysupp)
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 ```text
